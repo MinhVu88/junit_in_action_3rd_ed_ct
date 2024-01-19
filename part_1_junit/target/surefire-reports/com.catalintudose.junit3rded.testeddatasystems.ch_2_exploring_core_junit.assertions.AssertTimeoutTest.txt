@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.catalintudose.junit3rded.testeddatasystems.ch_2_exploring_core_junit.assertions.AssertTimeoutTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.42 s - in com.catalintudose.junit3rded.testeddatasystems.ch_2_exploring_core_junit.assertions.AssertTimeoutTest

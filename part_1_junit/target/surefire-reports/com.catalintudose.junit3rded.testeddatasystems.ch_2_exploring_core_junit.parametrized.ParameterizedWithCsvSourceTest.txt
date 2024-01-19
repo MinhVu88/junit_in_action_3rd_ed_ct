@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.catalintudose.junit3rded.testeddatasystems.ch_2_exploring_core_junit.parametrized.ParameterizedWithCsvSourceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s - in com.catalintudose.junit3rded.testeddatasystems.ch_2_exploring_core_junit.parametrized.ParameterizedWithCsvSourceTest

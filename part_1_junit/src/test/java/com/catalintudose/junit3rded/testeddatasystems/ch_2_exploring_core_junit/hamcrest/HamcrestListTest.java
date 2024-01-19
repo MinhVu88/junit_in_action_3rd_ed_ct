@@ -19,9 +19,13 @@ public class HamcrestListTest {
   @BeforeEach
   void setUp() {
     values = new ArrayList<>();
-    values.add("Michael");
-    values.add("John");
-    values.add("Edwin");
+    // values.add("Michael");
+    // values.add("John");
+    // values.add("Edwin");
+
+    values.add("Oliver");
+    values.add("Jack");
+    values.add("Harry");
   }
 
   @Test
